@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Dynasty 8 — Redirection</title>
+    <!--
+      GitHub Pages ne sait pas router côté serveur les URLs profondes d'une
+      SPA React Router (ex: /catalogue/garages). Cette page 404 encode l'URL
+      demandée dans le query string et redirige vers index.html, qui la
+      décode au chargement pour restaurer la bonne route côté client.
+      Technique standard : https://github.com/rafgraph/spa-github-pages
+    -->
+    <script>
+      (function () {
+        var segmentCount = 1; // correspond au nombre de segments du nom du dépôt dans la base path
+        var l = window.location;
+        var path = l.pathname.split('/').slice(0, 1 + segmentCount).join('/');
+        var query = l.search ? l.search.slice(1) + '&' : '';
+        window.location.replace(
+          l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+          path + '/?/' +
+          l.pathname.slice(path.length + 1).replace(/&/g, '~and~') +
+          (query ? '&' + query.replace(/&/g, '~and~') : '') +
+          l.hash
+        );
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>

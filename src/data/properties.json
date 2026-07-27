@@ -1,0 +1,1700 @@
+[
+  {
+    "id": "p001",
+    "slug": "house-mid-1",
+    "nom": "House Mid 1",
+    "prix": 75000,
+    "categorie": "habitations-amenagees-petit",
+    "localisation": "House Mid 1",
+    "description": "Habitation aménagée de taille moyenne, prête à emménager.",
+    "caracteristiques": [
+      "Meublé",
+      "Cuisine équipée",
+      "Salle de bain"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/47/1200/800",
+      "https://picsum.photos/id/50/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p002",
+    "slug": "house-low-1",
+    "nom": "House Low 1",
+    "prix": 75000,
+    "categorie": "habitations-amenagees-petit",
+    "localisation": "House Low 1",
+    "description": "Petite habitation aménagée, idéale pour un premier logement.",
+    "caracteristiques": [
+      "Meublé",
+      "Espace compact",
+      "Bon rapport qualité/prix"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/54/1200/800",
+      "https://picsum.photos/id/57/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p003",
+    "slug": "4-integrity-way-apt-30",
+    "nom": "4 Integrity Way, APT 30",
+    "prix": 250000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "4 Integrity Way, APT 30",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/61/1200/800",
+      "https://picsum.photos/id/64/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p004",
+    "slug": "dell-perro-heights-apt-7",
+    "nom": "Dell Perro Heights, Apt 7",
+    "prix": 250000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "Dell Perro Heights, Apt 7",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/68/1200/800",
+      "https://picsum.photos/id/71/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p005",
+    "slug": "3655-wild-oats-drive",
+    "nom": "3655 Wild Oats Drive",
+    "prix": 300000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "3655 Wild Oats Drive",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/75/1200/800",
+      "https://picsum.photos/id/78/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p006",
+    "slug": "2045-north-conker-avenue",
+    "nom": "2045 North Conker Avenue",
+    "prix": 300000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "2045 North Conker Avenue",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/82/1200/800",
+      "https://picsum.photos/id/85/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p007",
+    "slug": "2862-hillcrest-avenue",
+    "nom": "2862 Hillcrest Avenue",
+    "prix": 300000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "2862 Hillcrest Avenue",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/89/1200/800",
+      "https://picsum.photos/id/92/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p008",
+    "slug": "2868-hillcrest-avenue",
+    "nom": "2868 Hillcrest Avenue",
+    "prix": 300000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "2868 Hillcrest Avenue",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/96/1200/800",
+      "https://picsum.photos/id/99/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p009",
+    "slug": "2874-hillcrest-avenue",
+    "nom": "2874 Hillcrest Avenue",
+    "prix": 300000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "2874 Hillcrest Avenue",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/103/1200/800",
+      "https://picsum.photos/id/106/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p010",
+    "slug": "dell-perro-heights-apt-4",
+    "nom": "Dell Perro Heights, Apt 4",
+    "prix": 250000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "Dell Perro Heights, Apt 4",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/110/1200/800",
+      "https://picsum.photos/id/113/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p011",
+    "slug": "richard-majestic-apt-2",
+    "nom": "Richard Majestic, Apt 2",
+    "prix": 250000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "Richard Majestic, Apt 2",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/117/1200/800",
+      "https://picsum.photos/id/120/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p012",
+    "slug": "tinsel-towers-apt-23",
+    "nom": "Tinsel Towers, Apt 23",
+    "prix": 250000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "Tinsel Towers, Apt 23",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/124/1200/800",
+      "https://picsum.photos/id/127/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p013",
+    "slug": "eclipsetowers-apt-3",
+    "nom": "Eclipsetowers, Apt 3",
+    "prix": 250000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "Eclipsetowers, Apt 3",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/131/1200/800",
+      "https://picsum.photos/id/134/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p014",
+    "slug": "4-integrity-way-apt-28",
+    "nom": "4 Integrity Way, Apt 28",
+    "prix": 250000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "4 Integrity Way, Apt 28",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/138/1200/800",
+      "https://picsum.photos/id/141/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p015",
+    "slug": "eclipsetowers-penthouse-suite-1",
+    "nom": "Eclipsetowers, Penthouse Suite 1",
+    "prix": 350000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "Eclipsetowers, Penthouse Suite 1",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/145/1200/800",
+      "https://picsum.photos/id/148/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p016",
+    "slug": "casino-penthouse",
+    "nom": "Casino Penthouse",
+    "prix": 3000000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "Los Santos",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/152/1200/800",
+      "https://picsum.photos/id/155/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p017",
+    "slug": "eclipsetowers-penthouse-suite-2",
+    "nom": "Eclipsetowers, Penthouse Suite 2",
+    "prix": 350000,
+    "categorie": "habitations-amenagees-grand",
+    "localisation": "Eclipsetowers, Penthouse Suite 2",
+    "description": "Habitation aménagée de grand standing, entièrement meublée et prête à vivre.",
+    "caracteristiques": [
+      "Meublé haut de gamme",
+      "Plusieurs chambres",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/159/1200/800",
+      "https://picsum.photos/id/162/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p018",
+    "slug": "standard-motel",
+    "nom": "Standard Motel",
+    "prix": 75000,
+    "categorie": "habitations-vides-petit",
+    "localisation": "Los Santos",
+    "description": "Structure vide de petite taille, à aménager selon vos envies.",
+    "caracteristiques": [
+      "Structure brute",
+      "Petite superficie"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/166/1200/800",
+      "https://picsum.photos/id/169/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p019",
+    "slug": "modern-motel",
+    "nom": "Modern Motel",
+    "prix": 75000,
+    "categorie": "habitations-vides-petit",
+    "localisation": "Los Santos",
+    "description": "Structure vide au design moderne, à personnaliser entièrement.",
+    "caracteristiques": [
+      "Structure brute",
+      "Design moderne"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/173/1200/800",
+      "https://picsum.photos/id/176/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p020",
+    "slug": "office-1",
+    "nom": "Office 1",
+    "prix": 200000,
+    "categorie": "habitations-vides-petit",
+    "localisation": "Office 1",
+    "description": "Local vide à usage de bureau, à aménager selon vos besoins.",
+    "caracteristiques": [
+      "Structure brute",
+      "Usage professionnel possible"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/180/1200/800",
+      "https://picsum.photos/id/183/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p021",
+    "slug": "origen-small-shell-1",
+    "nom": "Origen Small Shell 1",
+    "prix": 100000,
+    "categorie": "habitations-vides-petit",
+    "localisation": "Origen Small Shell 1",
+    "description": "Coquille vide de petite taille, prête à être personnalisée.",
+    "caracteristiques": [
+      "Structure brute",
+      "Petite superficie"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/187/1200/800",
+      "https://picsum.photos/id/190/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p022",
+    "slug": "store-1",
+    "nom": "Store 1",
+    "prix": 75000,
+    "categorie": "habitations-vides-petit",
+    "localisation": "Store 1",
+    "description": "Local commercial vide, à aménager selon votre activité.",
+    "caracteristiques": [
+      "Structure brute",
+      "Usage commercial possible"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/194/1200/800",
+      "https://picsum.photos/id/197/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p023",
+    "slug": "frankaunt",
+    "nom": "Frankaunt",
+    "prix": 200000,
+    "categorie": "habitations-vides-moyen",
+    "localisation": "Los Santos",
+    "description": "Structure vide de taille intermédiaire, pour un projet sur mesure.",
+    "caracteristiques": [
+      "Structure brute",
+      "Taille intermédiaire"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/201/1200/800",
+      "https://picsum.photos/id/204/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p024",
+    "slug": "origen-medium-house-1",
+    "nom": "Origen Medium House 1",
+    "prix": 350000,
+    "categorie": "habitations-vides-moyen",
+    "localisation": "Origen Medium House 1",
+    "description": "Structure vide de taille moyenne, à aménager selon vos envies.",
+    "caracteristiques": [
+      "Structure brute",
+      "Taille moyenne"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/208/1200/800",
+      "https://picsum.photos/id/211/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p025",
+    "slug": "origen-medium-house-2",
+    "nom": "Origen Medium House 2",
+    "prix": 350000,
+    "categorie": "habitations-vides-moyen",
+    "localisation": "Origen Medium House 2",
+    "description": "Structure vide de taille moyenne, idéale pour un projet personnalisé.",
+    "caracteristiques": [
+      "Structure brute",
+      "Taille moyenne"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/215/1200/800",
+      "https://picsum.photos/id/218/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p026",
+    "slug": "maison-orange",
+    "nom": "Maison Orange",
+    "prix": 100000,
+    "categorie": "habitations-vides-moyen",
+    "localisation": "Los Santos",
+    "description": "Structure vide de taille moyenne, à personnaliser entièrement.",
+    "caracteristiques": [
+      "Structure brute",
+      "Taille moyenne"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/222/1200/800",
+      "https://picsum.photos/id/225/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p027",
+    "slug": "warehouse-1",
+    "nom": "Warehouse 1",
+    "prix": 150000,
+    "categorie": "entrepots",
+    "localisation": "Warehouse 1",
+    "description": "Entrepôt de type warehouse, adapté au stockage de grande capacité.",
+    "caracteristiques": [
+      "Grande capacité",
+      "Structure de stockage"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/229/1200/800",
+      "https://picsum.photos/id/232/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p029",
+    "slug": "michael",
+    "nom": "Michael",
+    "prix": 1000000,
+    "categorie": "habitations-vides-grand",
+    "localisation": "Los Santos",
+    "description": "Grande villa vide de prestige, à aménager selon vos envies.",
+    "caracteristiques": [
+      "Structure brute",
+      "Villa de prestige"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/243/1200/800",
+      "https://picsum.photos/id/246/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p030",
+    "slug": "origen-big-villa-2",
+    "nom": "Origen Big Villa 2",
+    "prix": 1000000,
+    "categorie": "habitations-vides-grand",
+    "localisation": "Origen Big Villa 2",
+    "description": "Grande villa vide, idéale pour un projet ambitieux.",
+    "caracteristiques": [
+      "Structure brute",
+      "Grande villa"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/250/1200/800",
+      "https://picsum.photos/id/253/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p031",
+    "slug": "origen-big-villa-1",
+    "nom": "Origen Big Villa 1",
+    "prix": 1000000,
+    "categorie": "habitations-vides-grand",
+    "localisation": "Origen Big Villa 1",
+    "description": "Grande villa vide, à personnaliser selon vos envies.",
+    "caracteristiques": [
+      "Structure brute",
+      "Grande villa"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/257/1200/800",
+      "https://picsum.photos/id/260/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p032",
+    "slug": "dc-house-six",
+    "nom": "Dc House Six",
+    "prix": 1000000,
+    "categorie": "habitations-vides-grand",
+    "localisation": "Los Santos",
+    "description": "Grande habitation vide, prête à être aménagée sur mesure.",
+    "caracteristiques": [
+      "Structure brute",
+      "Grande superficie"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/264/1200/800",
+      "https://picsum.photos/id/267/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p033",
+    "slug": "container-2",
+    "nom": "Container",
+    "prix": 200000,
+    "categorie": "entrepots",
+    "localisation": "Los Santos",
+    "description": "Entrepôt de type conteneur, adapté au stockage.",
+    "caracteristiques": [
+      "Structure de stockage"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/271/1200/800",
+      "https://picsum.photos/id/274/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p034",
+    "slug": "conteneur-2",
+    "nom": "Conteneur 2",
+    "prix": 80000,
+    "categorie": "entrepots",
+    "localisation": "Conteneur 2",
+    "description": "Entrepôt de type conteneur, économique.",
+    "caracteristiques": [
+      "Structure de stockage"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/278/1200/800",
+      "https://picsum.photos/id/281/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p035",
+    "slug": "moyen-entrepot-2",
+    "nom": "Moyen Entrepôt 2",
+    "prix": 250000,
+    "categorie": "entrepots",
+    "localisation": "Moyen Entrepôt 2",
+    "description": "Entrepôt de taille moyenne, adapté à toutes les activités.",
+    "caracteristiques": [
+      "Taille moyenne"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/285/1200/800",
+      "https://picsum.photos/id/288/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p036",
+    "slug": "petit-entrepot",
+    "nom": "Petit Entrepot",
+    "prix": 150000,
+    "categorie": "entrepots",
+    "localisation": "Los Santos",
+    "description": "Petit entrepôt de stockage, pratique et accessible.",
+    "caracteristiques": [
+      "Petite superficie"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/292/1200/800",
+      "https://picsum.photos/id/295/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p037",
+    "slug": "grand-entrepot-2",
+    "nom": "Grand Entrepot 2",
+    "prix": 750000,
+    "categorie": "entrepots",
+    "localisation": "Grand Entrepot 2",
+    "description": "Grand entrepôt de stockage à forte capacité.",
+    "caracteristiques": [
+      "Grande capacité"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/299/1200/800",
+      "https://picsum.photos/id/302/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p038",
+    "slug": "entrepot-grand",
+    "nom": "Entrepôt Grand",
+    "prix": 750000,
+    "categorie": "entrepots",
+    "localisation": "Los Santos",
+    "description": "Grand entrepôt de stockage, idéal pour une activité de grande envergure.",
+    "caracteristiques": [
+      "Grande capacité"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/306/1200/800",
+      "https://picsum.photos/id/309/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p039",
+    "slug": "cave",
+    "nom": "Cave",
+    "prix": 75000,
+    "categorie": "entrepots",
+    "localisation": "Los Santos",
+    "description": "Petite cave de stockage discrète.",
+    "caracteristiques": [
+      "Discret",
+      "Petite superficie"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/313/1200/800",
+      "https://picsum.photos/id/316/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p040",
+    "slug": "biker-clubhouse-2",
+    "nom": "Biker Clubhouse 2",
+    "prix": 200000,
+    "categorie": "entrepots",
+    "localisation": "Biker Clubhouse 2",
+    "description": "Local de type clubhouse, adapté au stockage et aux réunions.",
+    "caracteristiques": [
+      "Espace polyvalent"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/20/1200/800",
+      "https://picsum.photos/id/23/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p041",
+    "slug": "biker-clubhouse-1",
+    "nom": "Biker Clubhouse 1",
+    "prix": 150000,
+    "categorie": "entrepots",
+    "localisation": "Biker Clubhouse 1",
+    "description": "Local de type clubhouse, pratique pour le stockage.",
+    "caracteristiques": [
+      "Espace polyvalent"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/27/1200/800",
+      "https://picsum.photos/id/30/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p042",
+    "slug": "vehicle-warehouse",
+    "nom": "Vehicle Warehouse",
+    "prix": 500000,
+    "categorie": "entrepots",
+    "localisation": "Los Santos",
+    "description": "Entrepôt dédié au stockage de véhicules.",
+    "caracteristiques": [
+      "Stockage véhicules",
+      "Grande capacité"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/34/1200/800",
+      "https://picsum.photos/id/37/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p043",
+    "slug": "arcadius-business-centre",
+    "nom": "Arcadius Business Centre",
+    "prix": 250000,
+    "categorie": "bureaux",
+    "localisation": "Los Santos",
+    "description": "Immeuble de bureaux au cœur du centre d'affaires.",
+    "caracteristiques": [
+      "Usage professionnel",
+      "Emplacement central"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/41/1200/800",
+      "https://picsum.photos/id/44/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p044",
+    "slug": "maze-bank-building",
+    "nom": "Maze Bank Building",
+    "prix": 300000,
+    "categorie": "bureaux",
+    "localisation": "Los Santos",
+    "description": "Bureaux dans un immeuble emblématique du quartier des affaires.",
+    "caracteristiques": [
+      "Usage professionnel",
+      "Immeuble emblématique"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/48/1200/800",
+      "https://picsum.photos/id/51/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p045",
+    "slug": "lom-bank",
+    "nom": "Lom Bank",
+    "prix": 250000,
+    "categorie": "bureaux",
+    "localisation": "Los Santos",
+    "description": "Locaux professionnels au sein d'une banque.",
+    "caracteristiques": [
+      "Usage professionnel",
+      "Sécurisé"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/55/1200/800",
+      "https://picsum.photos/id/58/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p046",
+    "slug": "security-office-1",
+    "nom": "Security Office 1",
+    "prix": 1000000,
+    "categorie": "bureaux",
+    "localisation": "Security Office 1",
+    "description": "Bureaux sécurisés à usage spécialisé.",
+    "caracteristiques": [
+      "Haute sécurité",
+      "Usage spécialisé"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/62/1200/800",
+      "https://picsum.photos/id/65/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p047",
+    "slug": "record-a-studios",
+    "nom": "Record A Studios",
+    "prix": 2500000,
+    "categorie": "bureaux",
+    "localisation": "Los Santos",
+    "description": "Studio d'enregistrement professionnel de prestige.",
+    "caracteristiques": [
+      "Studio professionnel",
+      "Équipement complet"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/69/1200/800",
+      "https://picsum.photos/id/72/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p048",
+    "slug": "maze-bank-west",
+    "nom": "Maze Bank West",
+    "prix": 250000,
+    "categorie": "bureaux",
+    "localisation": "Los Santos",
+    "description": "Bureaux dans l'aile ouest de l'immeuble Maze Bank.",
+    "caracteristiques": [
+      "Usage professionnel",
+      "Emplacement central"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/76/1200/800",
+      "https://picsum.photos/id/79/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p049",
+    "slug": "gunrunning-bunker",
+    "nom": "Gunrunning Bunker",
+    "prix": 2000000,
+    "categorie": "bunker",
+    "localisation": "Los Santos",
+    "description": "Bunker sécurisé à usage spécial, isolé et discret.",
+    "caracteristiques": [
+      "Haute sécurité",
+      "Isolé"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/83/1200/800",
+      "https://picsum.photos/id/86/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p050",
+    "slug": "vehicle-warehouse-2",
+    "nom": "Vehicle Warehouse",
+    "prix": 500000,
+    "categorie": "hangar",
+    "localisation": "Los Santos",
+    "description": "Hangar dédié au stockage de véhicules de grande capacité.",
+    "caracteristiques": [
+      "Stockage véhicules",
+      "Grande capacité"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/90/1200/800",
+      "https://picsum.photos/id/93/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p051",
+    "slug": "hangar",
+    "nom": "Hangar",
+    "prix": 3000000,
+    "categorie": "hangar",
+    "localisation": "Los Santos",
+    "description": "Grand hangar de très grande capacité, à usage polyvalent.",
+    "caracteristiques": [
+      "Très grande capacité",
+      "Usage polyvalent"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/97/1200/800",
+      "https://picsum.photos/id/100/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p052",
+    "slug": "origen-garage-1",
+    "nom": "Origen Garage 1",
+    "prix": 75000,
+    "categorie": "garage",
+    "localisation": "Origen Garage 1",
+    "description": "Garage individuel sécurisé, idéal pour un premier véhicule.",
+    "caracteristiques": [
+      "Sécurisé",
+      "1 place"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/104/1200/800",
+      "https://picsum.photos/id/107/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p053",
+    "slug": "origen-garage-2",
+    "nom": "Origen Garage 2",
+    "prix": 200000,
+    "categorie": "garage",
+    "localisation": "Origen Garage 2",
+    "description": "Garage de taille moyenne, sécurisé et accessible.",
+    "caracteristiques": [
+      "Sécurisé",
+      "Plusieurs places"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/111/1200/800",
+      "https://picsum.photos/id/114/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p054",
+    "slug": "garage",
+    "nom": "Garage",
+    "prix": 200000,
+    "categorie": "garage",
+    "localisation": "Los Santos",
+    "description": "Garage sécurisé pour le stockage de véhicules.",
+    "caracteristiques": [
+      "Sécurisé"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/118/1200/800",
+      "https://picsum.photos/id/121/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p055",
+    "slug": "origen-garage-3",
+    "nom": "Origen Garage 3",
+    "prix": 500000,
+    "categorie": "garage",
+    "localisation": "Origen Garage 3",
+    "description": "Grand garage sécurisé, pour une collection de véhicules.",
+    "caracteristiques": [
+      "Sécurisé",
+      "Grande capacité"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/125/1200/800",
+      "https://picsum.photos/id/128/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p056",
+    "slug": "maison-1",
+    "nom": "Maison 1",
+    "prix": 350000,
+    "categorie": "construction",
+    "localisation": "Maison 1",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : moyen",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/132/1200/800",
+      "https://picsum.photos/id/135/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p057",
+    "slug": "maison-2",
+    "nom": "Maison 2",
+    "prix": 150000,
+    "categorie": "construction",
+    "localisation": "Maison 2",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : petit",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/139/1200/800",
+      "https://picsum.photos/id/142/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p058",
+    "slug": "maison-3",
+    "nom": "Maison 3",
+    "prix": 150000,
+    "categorie": "construction",
+    "localisation": "Maison 3",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : petit",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/146/1200/800",
+      "https://picsum.photos/id/149/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p059",
+    "slug": "maison-4",
+    "nom": "Maison 4",
+    "prix": 150000,
+    "categorie": "construction",
+    "localisation": "Maison 4",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : petit",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/153/1200/800",
+      "https://picsum.photos/id/156/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p060",
+    "slug": "maison-5",
+    "nom": "Maison 5",
+    "prix": 250000,
+    "categorie": "construction",
+    "localisation": "Maison 5",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : petit, moyen",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/160/1200/800",
+      "https://picsum.photos/id/163/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p061",
+    "slug": "maison-6",
+    "nom": "Maison 6",
+    "prix": 500000,
+    "categorie": "construction",
+    "localisation": "Maison 6",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : moyen, grand",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/167/1200/800",
+      "https://picsum.photos/id/170/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p062",
+    "slug": "maison-7",
+    "nom": "Maison 7",
+    "prix": 300000,
+    "categorie": "construction",
+    "localisation": "Maison 7",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : petit, moyen",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/174/1200/800",
+      "https://picsum.photos/id/177/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p063",
+    "slug": "maison-8",
+    "nom": "Maison 8",
+    "prix": 150000,
+    "categorie": "construction",
+    "localisation": "Maison 8",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : petit",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/181/1200/800",
+      "https://picsum.photos/id/184/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p064",
+    "slug": "maison-9",
+    "nom": "Maison 9",
+    "prix": 350000,
+    "categorie": "construction",
+    "localisation": "Maison 9",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : moyen",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/188/1200/800",
+      "https://picsum.photos/id/191/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p065",
+    "slug": "maison-10",
+    "nom": "Maison 10",
+    "prix": 100000,
+    "categorie": "construction",
+    "localisation": "Maison 10",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : petit",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/195/1200/800",
+      "https://picsum.photos/id/198/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p066",
+    "slug": "maison-11",
+    "nom": "Maison 11",
+    "prix": 100000,
+    "categorie": "construction",
+    "localisation": "Maison 11",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : petit",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/202/1200/800",
+      "https://picsum.photos/id/205/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p067",
+    "slug": "maison-12",
+    "nom": "Maison 12",
+    "prix": 125000,
+    "categorie": "construction",
+    "localisation": "Maison 12",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : petit",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/209/1200/800",
+      "https://picsum.photos/id/212/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p068",
+    "slug": "maison-13",
+    "nom": "Maison 13",
+    "prix": 400000,
+    "categorie": "construction",
+    "localisation": "Maison 13",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : moyen",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/216/1200/800",
+      "https://picsum.photos/id/219/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p069",
+    "slug": "maison-14",
+    "nom": "Maison 14",
+    "prix": 150000,
+    "categorie": "construction",
+    "localisation": "Maison 14",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : petit",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/223/1200/800",
+      "https://picsum.photos/id/226/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p070",
+    "slug": "maison-15",
+    "nom": "Maison 15",
+    "prix": 350000,
+    "categorie": "construction",
+    "localisation": "Maison 15",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : petit, moyen",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/230/1200/800",
+      "https://picsum.photos/id/233/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p071",
+    "slug": "maison-16",
+    "nom": "Maison 16",
+    "prix": 150000,
+    "categorie": "construction",
+    "localisation": "Maison 16",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : petit",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/237/1200/800",
+      "https://picsum.photos/id/240/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p072",
+    "slug": "container-projet",
+    "nom": "Container (projet)",
+    "prix": 80000,
+    "categorie": "construction",
+    "localisation": "Los Santos",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : container, conteneur 2",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/244/1200/800",
+      "https://picsum.photos/id/247/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p073",
+    "slug": "department",
+    "nom": "Department",
+    "prix": 500000,
+    "categorie": "construction",
+    "localisation": "Los Santos",
+    "description": "Projet de construction sur mesure, avec choix d'intérieurs personnalisables.",
+    "caracteristiques": [
+      "Intérieurs possibles : moyen, grand",
+      "Terrain constructible",
+      "Permis à valider avec l'agence"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/251/1200/800",
+      "https://picsum.photos/id/254/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p074",
+    "slug": "house-low-2",
+    "nom": "House Low 2",
+    "prix": 75000,
+    "categorie": "habitations-amenagees-petit",
+    "localisation": "Los Santos",
+    "description": "Petite habitation aménagée, ambiance cosy.",
+    "caracteristiques": [
+      "Meublé",
+      "Espace compact"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/265/1200/800",
+      "https://picsum.photos/id/269/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p075",
+    "slug": "house-mid-2",
+    "nom": "House Mid 2",
+    "prix": 90000,
+    "categorie": "habitations-amenagees-petit",
+    "localisation": "Los Santos",
+    "description": "Habitation aménagée de taille moyenne, lumineuse.",
+    "caracteristiques": [
+      "Meublé",
+      "Cuisine équipée"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/276/1200/800",
+      "https://picsum.photos/id/280/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p076",
+    "slug": "studio-downtown",
+    "nom": "Studio Downtown",
+    "prix": 80000,
+    "categorie": "habitations-amenagees-petit",
+    "localisation": "Los Santos",
+    "description": "Studio meublé en plein centre-ville.",
+    "caracteristiques": [
+      "Meublé",
+      "Emplacement central"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/287/1200/800",
+      "https://picsum.photos/id/291/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p077",
+    "slug": "studio-vespucci",
+    "nom": "Studio Vespucci",
+    "prix": 85000,
+    "categorie": "habitations-amenagees-petit",
+    "localisation": "Los Santos",
+    "description": "Studio meublé proche de la plage.",
+    "caracteristiques": [
+      "Meublé",
+      "Vue plage"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/298/1200/800",
+      "https://picsum.photos/id/302/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p078",
+    "slug": "legal-firm-office",
+    "nom": "Legal Firm Office",
+    "prix": 275000,
+    "categorie": "bureaux",
+    "localisation": "Los Santos",
+    "description": "Bureaux professionnels pour cabinet juridique.",
+    "caracteristiques": [
+      "Usage professionnel",
+      "Salle de réunion"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/309/1200/800",
+      "https://picsum.photos/id/313/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p079",
+    "slug": "medical-office-1",
+    "nom": "Medical Office 1",
+    "prix": 300000,
+    "categorie": "bureaux",
+    "localisation": "Los Santos",
+    "description": "Local professionnel adapté à une activité médicale.",
+    "caracteristiques": [
+      "Usage professionnel",
+      "Accès facile"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/20/1200/800",
+      "https://picsum.photos/id/24/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p080",
+    "slug": "insurance-office",
+    "nom": "Insurance Office",
+    "prix": 250000,
+    "categorie": "bureaux",
+    "localisation": "Los Santos",
+    "description": "Bureaux dédiés à une activité d'assurance.",
+    "caracteristiques": [
+      "Usage professionnel",
+      "Emplacement central"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/31/1200/800",
+      "https://picsum.photos/id/35/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p081",
+    "slug": "bunker-sandy-shores",
+    "nom": "Bunker Sandy Shores",
+    "prix": 1800000,
+    "categorie": "bunker",
+    "localisation": "Los Santos",
+    "description": "Bunker sécurisé isolé près de Sandy Shores.",
+    "caracteristiques": [
+      "Haute sécurité",
+      "Isolé"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/42/1200/800",
+      "https://picsum.photos/id/46/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p082",
+    "slug": "bunker-grapeseed",
+    "nom": "Bunker Grapeseed",
+    "prix": 1900000,
+    "categorie": "bunker",
+    "localisation": "Los Santos",
+    "description": "Bunker discret en périphérie de Grapeseed.",
+    "caracteristiques": [
+      "Haute sécurité",
+      "Discret"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/53/1200/800",
+      "https://picsum.photos/id/57/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p083",
+    "slug": "bunker-paleto",
+    "nom": "Bunker Paleto",
+    "prix": 2100000,
+    "categorie": "bunker",
+    "localisation": "Los Santos",
+    "description": "Bunker fortifié proche de Paleto Bay.",
+    "caracteristiques": [
+      "Haute sécurité",
+      "Fortifié"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/64/1200/800",
+      "https://picsum.photos/id/68/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p084",
+    "slug": "hangar-lsia",
+    "nom": "Hangar LSIA",
+    "prix": 2800000,
+    "categorie": "hangar",
+    "localisation": "Los Santos",
+    "description": "Hangar de grande capacité proche de l'aéroport.",
+    "caracteristiques": [
+      "Grande capacité",
+      "Accès aérien"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/75/1200/800",
+      "https://picsum.photos/id/79/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p085",
+    "slug": "hangar-sandy-shores",
+    "nom": "Hangar Sandy Shores",
+    "prix": 2600000,
+    "categorie": "hangar",
+    "localisation": "Los Santos",
+    "description": "Hangar polyvalent en zone désertique.",
+    "caracteristiques": [
+      "Grande capacité",
+      "Usage polyvalent"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/86/1200/800",
+      "https://picsum.photos/id/90/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p086",
+    "slug": "origen-garage-4",
+    "nom": "Origen Garage 4",
+    "prix": 350000,
+    "categorie": "garage",
+    "localisation": "Los Santos",
+    "description": "Garage sécurisé de bonne capacité.",
+    "caracteristiques": [
+      "Sécurisé",
+      "Plusieurs places"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/97/1200/800",
+      "https://picsum.photos/id/101/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p087",
+    "slug": "garage-del-perro",
+    "nom": "Garage Del Perro",
+    "prix": 250000,
+    "categorie": "garage",
+    "localisation": "Los Santos",
+    "description": "Garage sécurisé proche de la marina.",
+    "caracteristiques": [
+      "Sécurisé",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/108/1200/800",
+      "https://picsum.photos/id/112/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p088",
+    "slug": "garage-rockford",
+    "nom": "Garage Rockford",
+    "prix": 300000,
+    "categorie": "garage",
+    "localisation": "Los Santos",
+    "description": "Garage sécurisé au cœur de Rockford Hills.",
+    "caracteristiques": [
+      "Sécurisé",
+      "Emplacement recherché"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/119/1200/800",
+      "https://picsum.photos/id/123/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p089",
+    "slug": "origen-small-shell-2",
+    "nom": "Origen Small Shell 2",
+    "prix": 110000,
+    "categorie": "habitations-vides-petit",
+    "localisation": "Los Santos",
+    "description": "Coquille vide de petite taille, à personnaliser.",
+    "caracteristiques": [
+      "Structure brute",
+      "Petite superficie"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/130/1200/800",
+      "https://picsum.photos/id/134/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p090",
+    "slug": "store-2",
+    "nom": "Store 2",
+    "prix": 90000,
+    "categorie": "habitations-vides-petit",
+    "localisation": "Los Santos",
+    "description": "Local commercial vide, à aménager selon votre activité.",
+    "caracteristiques": [
+      "Structure brute",
+      "Usage commercial possible"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/141/1200/800",
+      "https://picsum.photos/id/145/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p091",
+    "slug": "origen-medium-house-3",
+    "nom": "Origen Medium House 3",
+    "prix": 375000,
+    "categorie": "habitations-vides-moyen",
+    "localisation": "Los Santos",
+    "description": "Structure vide de taille moyenne, polyvalente.",
+    "caracteristiques": [
+      "Structure brute",
+      "Taille moyenne"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/152/1200/800",
+      "https://picsum.photos/id/156/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p092",
+    "slug": "origen-big-villa-3",
+    "nom": "Origen Big Villa 3",
+    "prix": 1050000,
+    "categorie": "habitations-vides-grand",
+    "localisation": "Los Santos",
+    "description": "Grande villa vide, projet ambitieux.",
+    "caracteristiques": [
+      "Structure brute",
+      "Grande villa"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/163/1200/800",
+      "https://picsum.photos/id/167/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p093",
+    "slug": "petit-entrepot-2",
+    "nom": "Petit Entrepot 2",
+    "prix": 160000,
+    "categorie": "entrepots",
+    "localisation": "Los Santos",
+    "description": "Petit entrepôt de stockage supplémentaire.",
+    "caracteristiques": [
+      "Petite superficie"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/174/1200/800",
+      "https://picsum.photos/id/178/1200/800"
+    ],
+    "disponible": true
+  },
+  {
+    "id": "p094",
+    "slug": "moyen-entrepot-3",
+    "nom": "Moyen Entrepôt 3",
+    "prix": 260000,
+    "categorie": "entrepots",
+    "localisation": "Los Santos",
+    "description": "Entrepôt de taille moyenne, polyvalent.",
+    "caracteristiques": [
+      "Taille moyenne"
+    ],
+    "galerie": [
+      "https://picsum.photos/id/185/1200/800",
+      "https://picsum.photos/id/189/1200/800"
+    ],
+    "disponible": true
+  }
+]

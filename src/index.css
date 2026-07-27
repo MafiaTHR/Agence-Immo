@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-d8-black text-d8-cream font-body antialiased;
+  background-image:
+    radial-gradient(circle at 15% 0%, rgba(201,162,75,0.06), transparent 45%),
+    radial-gradient(circle at 85% 15%, rgba(201,162,75,0.04), transparent 40%);
+}
+
+::selection {
+  background: rgba(201, 162, 75, 0.35);
+  color: #fff;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #0B0C0E;
+}
+::-webkit-scrollbar-thumb {
+  background: #2A2D33;
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C9A24B;
+}
+
+:focus-visible {
+  outline: 2px solid #E8C878;
+  outline-offset: 3px;
+}
+
+.grain-overlay {
+  @apply bg-grain;
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 60;
+  mix-blend-mode: overlay;
+}
+
+.eyebrow {
+  @apply text-d8-gold text-xs font-semibold uppercase tracking-widest2;
+}
+
+.gold-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(201,162,75,0.6), transparent);
+}
+
+.deed-corner {
+  position: relative;
+}
+.deed-corner::before,
+.deed-corner::after {
+  content: '';
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  border: 1px solid rgba(201,162,75,0.7);
+}
+.deed-corner::before {
+  top: 8px;
+  left: 8px;
+  border-right: none;
+  border-bottom: none;
+}
+.deed-corner::after {
+  bottom: 8px;
+  right: 8px;
+  border-left: none;
+  border-top: none;
+}
